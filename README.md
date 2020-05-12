@@ -12,4 +12,4 @@
 
 [OkHttp](https://square.github.io/okhttp/)
 
-[Maven Repository]()
+[Maven Repository](https://mvnrepository.com/)
