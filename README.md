@@ -2,7 +2,7 @@
     跟着视频学习
     
 # 完成导航条
-[Spring docs](https://spring.io/guides)
+[Spring](https://spring.io/guides)
 
 [bootstrap docs](https://v3.bootcss.com/)
 
@@ -13,3 +13,7 @@
 [OkHttp](https://square.github.io/okhttp/)
 
 [Maven Repository](https://mvnrepository.com/)
+
+[H2 Database](http://www.h2database.com/html/main.html)
+
+[Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#legal)
